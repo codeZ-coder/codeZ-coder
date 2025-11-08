@@ -1,4 +1,4 @@
-# 💡 The Edge Architect: Secure MLOps & Minimalist Engineering
+# 💡Na missão de me tornar: The Edge Architect: Secure MLOps & Minimalist Engineering
 
 > Em transição. Em construção. Em missão.
 
