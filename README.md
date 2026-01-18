@@ -1,64 +1,68 @@
-# 💡Na missão de me tornar: The Edge Architect: Secure MLOps & Minimalist Engineering
+# Olá, eu sou o Karlos (codeZ-coder) 👋
 
-> Em transição. Em construção. Em missão.
+### The Edge Architect: Secure MLOps & Minimalist Engineering
 
-Começando do zero, literalmente.
-Estudante de **Análise e Desenvolvimento de Sistemas** + **Ciência de Dados**, tentando entender o caos por trás de **segurança**, **automação** e **inteligência distribuída**.
-Este repositório é meu **diário de aprendizado público** — meus testes, erros e pequenas descobertas no caminho.
+> "Em transição. Em construção. Em missão."
 
----
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Ciência de Dados**. Meu foco é entender a intersecção entre segurança, automação e inteligência distribuída. Acredito na tecnologia como uma ferramenta de precisão — funcional, otimizada e segura por princípio.
 
-## 🎯 Visão
-
-Construir uma base técnica **precisa e confiável**, como a de um especialista que atua com responsabilidade e domínio em ambientes críticos: **entender, proteger e automatizar**.
-
-**Princípios Guia:**
-
-🔪 **Eficiência  (Minimalismo)**
-🔗 **Segurança por Princípio (Purple Team)**
-🚀 **Entrega Otimizada (MLOps/Edge)**
+Este repositório é meu **diário de aprendizado público**: onde transformo o caos dos estudos em documentação e código.
 
 ---
 
-## 🧪 Em Andamento
+## 🎯 Visão & Princípios
 
-| Nível                                                       | Tema                         | Status |
-| :---------------------------------------------------------- | :----------------------      | :----- |
-| 🧩 **Camada 1:** Fundamentos de Programação e Lógica        | ⬛⬛⬛⬛⬛ (00%)          |        |
-| 💾 **Camada 2:** Banco de Dados & Estrutura de Dados        | 🟦⬛⬛⬛⬛ (1%)           |        |
-| 🔒 **Camada 3:** Segurança Proativa (Pentest / Purple Team) | ⬛⬛⬛⬛⬛ (0%)           |        |
-| ⚙️ **Camada 4:** Automação e DevSecOps                      | ⬛⬛⬛⬛⬛ (0%)           |        |
-| 🧠 **Camada 5:** MLOps & Edge Intelligence                  | ⬛⬛⬛⬛⬛ *(loading...)* |        |
+Meu objetivo é construir sistemas críticos que sejam, acima de tudo, confiáveis. Minha filosofia de engenharia é guiada por três pilares:
 
-📘 → 💻 → 🔐 → ⚙️ → 🧠
-
-
-### 📚 Fundamentos e Convergência
-
-* 🎓 Graduação em ADS & Ciência de Dados
-* 🧠 MLOps para ambientes de recursos limitados (TinyML) (loading...)
-* 🛡️ Segurança Proativa (Purple Team): aprendendo o básico, errando bastante, mas curioso pra ver até onde vai.
-
-### 🚧 Próximos Passos
-
-* Scripts simples em Python
-* Brincadeiras com dados pessoais
-* Laboratórios de segurança
-* Entender o porquê de tanta briga com estatística 😅
+* 🔪 **Minimalismo (Eficiência):** Menos é mais. Sistemas enxutos são mais fáceis de manter e proteger. (Arch Linux user philosophy).
+* 🔗 **Segurança Proativa (Purple Team):** A segurança não é um anexo, é o alicerce.
+* 🚀 **Edge Intelligence:** Levando a inteligência para onde os dados acontecem.
 
 ---
 
-## 🛠️ Stack em Formação
+## 🧪 Roadmap de Evolução (Learning Path)
 
-`Python` (MLOps) · `Rust/Go` (Performance) · `Docker/K3s` (Orquestração) · `SQL/SQLite` (Dados) · `Linux` · `cosign` (Supply Chain Security)
 
-*(Ainda montando o quebra-cabeça — sem pressa, mas com direção.)*
+
+[Image of Edge Computing architecture]
+
+
+| Camada | Tema | Foco Atual | Status |
+| :--- | :--- | :--- | :--- |
+| 🧩 **01** | **Fundamentos** | Lógica, Python e Algoritmos | 🟦⬜⬜⬜⬜ |
+| 💾 **02** | **Dados** | SQL, SQLite & Estruturas | 🟦⬛⬛⬛⬛ |
+| 🔒 **03** | **Segurança** | Pentest, Supply Chain (Cosign) | ⬛⬛⬛⬛⬛ |
+| ⚙️ **04** | **DevSecOps** | Docker, K3s, Automação | ⬛⬛⬛⬛⬛ |
+| 🧠 **05** | **Edge/MLOps** | TinyML & Inteligência Distribuída | ⏳ *Loading* |
 
 ---
 
-## 🤝 Connect
+## 🛠️ Em Construção (Stack & Estudos)
 
-Se você também tá começando, tá perdido, ou só quer conversar sobre esse mundo caótico que é a TI — **chega junto**.
-A jornada é longa, mas mais leve quando é compartilhada.
+### 💻 Tecnologias
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC0000?style=flat&logo=sqlite&logoColor=white)
 
+### 📚 Fundamentos em Foco (Graduação ADS/CD)
+* **Engenharia de Software:** Aprendendo a estruturar sistemas robustos.
+* **Matemática & Estatística:** Base científica para análise de dados.
+* **Segurança da Informação:** Entendendo a proteção proativa de ativos.
+* **Paradigmas de Python:** Indo além da sintaxe, entendendo a estrutura.
+---
 
+## 📊 Estatísticas e Atividade
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=codeZ-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeZ-coder&layout=compact&theme=dark" alt="Top Languages" height="150" />
+</p>
+
+---
+
+## 🤝 Conecte-se comigo
+
+A jornada de transição para tecnologia aos 40+ é um desafio de resiliência. Se você compartilha do interesse por sistemas minimalistas, segurança ou está na mesma trilha de aprendizado, vamos trocar uma ideia.
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeZ-coder)
