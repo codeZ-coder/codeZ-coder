@@ -1,68 +1,80 @@
-# Olá, eu sou o Karlos (codeZ-coder) 👋
+# codeZ-coder
 
-### The Edge Architect: Secure MLOps & Minimalist Engineering
+```
+$ whoami
+karlos — 40+, campo grande/ms
+cursando ADS + ciência de dados
+interesse em cibersegurança
+sem experiência prévia em tech
+```
 
 > "Em transição. Em construção. Em missão."
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e **Ciência de Dados**. Meu foco é entender a intersecção entre segurança, automação e inteligência distribuída. Acredito na tecnologia como uma ferramenta de precisão — funcional, otimizada e segura por princípio.
-
-Este repositório é meu **diário de aprendizado público**: onde transformo o caos dos estudos em documentação e código.
-
----
-
-## 🎯 Visão & Princípios
-
-Meu objetivo é construir sistemas críticos que sejam, acima de tudo, confiáveis. Minha filosofia de engenharia é guiada por três pilares:
-
-* 🔪 **Minimalismo (Eficiência):** Menos é mais. Sistemas enxutos são mais fáceis de manter e proteger. (Arch Linux user philosophy).
-* 🔗 **Segurança Proativa (Purple Team):** A segurança não é um anexo, é o alicerce.
-* 🚀 **Edge Intelligence:** Levando a inteligência para onde os dados acontecem.
+Este repositório é o log público de uma transição de carreira tardia.
+Sem portfolio para mostrar ainda — só o processo.
 
 ---
 
-## 🧪 Roadmap de Evolução (Learning Path)
+## status atual
 
-
-
-[Image of Edge Computing architecture]
-
-
-| Camada | Tema | Foco Atual | Status |
-| :--- | :--- | :--- | :--- |
-| 🧩 **01** | **Fundamentos** | Lógica, Python e Algoritmos | 🟦⬜⬜⬜⬜ |
-| 💾 **02** | **Dados** | SQL, SQLite & Estruturas | 🟦⬛⬛⬛⬛ |
-| 🔒 **03** | **Segurança** | Pentest, Supply Chain (Cosign) | ⬛⬛⬛⬛⬛ |
-| ⚙️ **04** | **DevSecOps** | Docker, K3s, Automação | ⬛⬛⬛⬛⬛ |
-| 🧠 **05** | **Edge/MLOps** | TinyML & Inteligência Distribuída | ⏳ *Loading* |
+```
+[*] aprendendo
+[ ] empregado na área
+[ ] com alguma ideia do que estou fazendo
+```
 
 ---
 
-## 🛠️ Em Construção (Stack & Estudos)
+## ./stack
 
-### 💻 Tecnologias
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC0000?style=flat&logo=sqlite&logoColor=white)
-
-### 📚 Fundamentos em Foco (Graduação ADS/CD)
-* **Engenharia de Software:** Aprendendo a estruturar sistemas robustos.
-* **Matemática & Estatística:** Base científica para análise de dados.
-* **Segurança da Informação:** Entendendo a proteção proativa de ativos.
-* **Paradigmas de Python:** Indo além da sintaxe, entendendo a estrutura.
----
-
-## 📊 Estatísticas e Atividade
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=codeZ-coder&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeZ-coder&layout=compact&theme=dark" alt="Top Languages" height="150" />
-</p>
+```
+[*] python          fundamentos, lógica, algoritmos
+[*] linux           shell, filesystem, permissões
+[*] sql             consultas, sqlite, estruturas
+[*] redes           protocolos, camadas, tráfego
+[*] segurança       conceitos, ameaças, defesa básica
+[ ] docker          na fila
+[ ] pentest         na fila, muito na fila
+[ ] tudo mais       idem
+```
 
 ---
 
-## 🤝 Conecte-se comigo
+## ./progresso
 
-A jornada de transição para tecnologia aos 40+ é um desafio de resiliência. Se você compartilha do interesse por sistemas minimalistas, segurança ou está na mesma trilha de aprendizado, vamos trocar uma ideia.
+```
+fundamentos .......... [==        ] 20%
+dados ................ [=         ] 10%
+segurança ............ [          ]  5%
+automação ............ [          ]  2%
+edge / ml ............ [......    ] indefinido
+```
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codeZ-coder)
+---
+
+## ./filosofia
+
+```
+# menos é mais
+# sistemas simples falham de forma simples
+# segurança não é feature, é requisito
+# commit pequeno > PR heroico
+# ainda não sei o suficiente pra ter opinião forte sobre nada disso
+```
+
+---
+
+## ./contato
+
+```
+web  > code-z.dev
+git  > github.com/codeZ-coder
+```
+
+---
+
+```
+# este arquivo será atualizado conforme o aprendizado avança
+# última atualização: 2025
+# próxima atualização: quando tiver algo honesto a adicionar
+```
